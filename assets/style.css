@@ -1,0 +1,21 @@
+input {
+    width: 100%;
+  }
+  
+  div.alert {
+    padding: 10px;
+  }
+  
+  h1 {
+    font-family: 'Sriracha', cursive;
+  }
+  
+  div.alert-info {
+    background-color: #E9E7E7;
+  }
+  
+  button.btn-default {
+    background-color: #3A6BEC;
+    color: white;
+  }
+  
